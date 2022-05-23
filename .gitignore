@@ -1,0 +1,6 @@
+/node_modules
+/dist
+/MySqlScripts
+request.rest
+.env
+server.js
